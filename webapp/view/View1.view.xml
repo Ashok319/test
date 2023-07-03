@@ -3,7 +3,9 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+					<Text text="File Updated"></Text>
+				</content>
 			</Page>
 		</pages>
 	</App>
